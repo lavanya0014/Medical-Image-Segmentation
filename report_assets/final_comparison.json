@@ -1,0 +1,62 @@
+[
+  {
+    "tag": "teacher",
+    "display_name": "A: Teacher",
+    "n_cases": 15,
+    "dice_mean": 0.8040008766976805,
+    "precision_mean": 0.7823539707393514,
+    "recall_mean": 0.8375986354498574,
+    "hd95_mean_mm": 59.50491697968117,
+    "cldice_mean": 0.775332036922964,
+    "params_millions": null,
+    "checkpoint_size_mb": null
+  },
+  {
+    "tag": "student",
+    "display_name": "B: Scratch student",
+    "n_cases": 12,
+    "dice_mean": 0.8047564443056249,
+    "precision_mean": 0.7831258643766584,
+    "recall_mean": 0.8384042695866073,
+    "hd95_mean_mm": 62.48872961457061,
+    "cldice_mean": 0.7688887611427958,
+    "params_millions": null,
+    "checkpoint_size_mb": null
+  },
+  {
+    "tag": "c1",
+    "display_name": "C1: Output-level KD",
+    "n_cases": 15,
+    "dice_mean": 0.8032078690417817,
+    "precision_mean": 0.7762328550376255,
+    "recall_mean": 0.8430039146521866,
+    "hd95_mean_mm": 60.03542221054716,
+    "cldice_mean": 0.7733753102828566,
+    "params_millions": null,
+    "checkpoint_size_mb": null
+  },
+  {
+    "tag": "c2",
+    "display_name": "C2: Feature-level KD",
+    "n_cases": 15,
+    "dice_mean": 0.7939702138299513,
+    "precision_mean": 0.7331067142017317,
+    "recall_mean": 0.8766601523296821,
+    "hd95_mean_mm": 67.42933392381556,
+    "cldice_mean": 0.7367863174447841,
+    "params_millions": null,
+    "checkpoint_size_mb": null
+  },
+  {
+    "tag": "c3",
+    "display_name": "C3: Combined KD",
+    "n_cases": 15,
+    "dice_mean": 0.8050789551399646,
+    "precision_mean": 0.7803898661018285,
+    "recall_mean": 0.8418183585234603,
+    "hd95_mean_mm": 59.81866760890521,
+    "cldice_mean": 0.774319749224296,
+    "params_millions": null,
+    "checkpoint_size_mb": null
+  }
+]
