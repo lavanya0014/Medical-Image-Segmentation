@@ -1,0 +1,8 @@
+{
+  "student_params_million": 5.521122,
+  "checkpoint_mb": 15.537693,
+  "weights_fp32_mb": 22.084488,
+  "trainer": "nnUNetTrainer_5epochs",
+  "plans": "nnUNetPlansStudent5M",
+  "config": "3d_fullres"
+}

@@ -1,0 +1,26 @@
+{
+  "model": "C3 combined KD warm-start",
+  "checkpoint": "/content/drive/MyDrive/cas2023/nnUNet_results/Dataset501_CAS2023/nnUNetTrainerKD_C3_Combined__nnUNetPlansStudent__3d_fullres/fold_0/checkpoint_final.pth",
+  "input_name": "image",
+  "output_name": "logits",
+  "input_shape": [
+    1,
+    1,
+    64,
+    192,
+    192
+  ],
+  "output_shape": [
+    1,
+    2,
+    64,
+    192,
+    192
+  ],
+  "onnx_file": "/content/drive/MyDrive/cas2023/deployment/c3_warmstart_3d_fullres.onnx",
+  "onnx_size_mb": 29.4,
+  "verification": {
+    "max_abs_error": 0.00205230712890625,
+    "mean_abs_error": 0.0003427348274271935
+  }
+}

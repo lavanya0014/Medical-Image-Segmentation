@@ -1,0 +1,266 @@
+{
+    "foreground_mean": {
+        "Dice": 0.8050789551399646,
+        "FN": 26444.6,
+        "FP": 39894.53333333333,
+        "IoU": 0.6758705997284721,
+        "TN": 31217243.0,
+        "TP": 145313.2,
+        "n_pred": 185207.73333333334,
+        "n_ref": 171757.8
+    },
+    "mean": {
+        "1": {
+            "Dice": 0.8050789551399646,
+            "FN": 26444.6,
+            "FP": 39894.53333333333,
+            "IoU": 0.6758705997284721,
+            "TN": 31217243.0,
+            "TP": 145313.2,
+            "n_pred": 185207.73333333334,
+            "n_ref": 171757.8
+        }
+    },
+    "metric_per_case": [
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8060465658567743,
+                    "FN": 10923,
+                    "FP": 65599,
+                    "IoU": 0.6751072050269604,
+                    "TN": 34649370,
+                    "TP": 159008,
+                    "n_pred": 224607,
+                    "n_ref": 169931
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/cas2023/c3_predictions/CAS2023_001.nii.gz",
+            "reference_file": "/content/drive/MyDrive/cas2023/nnUNet_raw/Dataset501_CAS2023/labelsTs/CAS2023_001.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.798533788590827,
+                    "FN": 27252,
+                    "FP": 54587,
+                    "IoU": 0.6646327470618126,
+                    "TN": 42078472,
+                    "TP": 162189,
+                    "n_pred": 216776,
+                    "n_ref": 189441
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/cas2023/c3_predictions/CAS2023_009.nii.gz",
+            "reference_file": "/content/drive/MyDrive/cas2023/nnUNet_raw/Dataset501_CAS2023/labelsTs/CAS2023_009.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8301046254662371,
+                    "FN": 54388,
+                    "FP": 23183,
+                    "IoU": 0.709554583713999,
+                    "TN": 36782244,
+                    "TP": 189505,
+                    "n_pred": 212688,
+                    "n_ref": 243893
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/cas2023/c3_predictions/CAS2023_010.nii.gz",
+            "reference_file": "/content/drive/MyDrive/cas2023/nnUNet_raw/Dataset501_CAS2023/labelsTs/CAS2023_010.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8144960343957136,
+                    "FN": 43929,
+                    "FP": 47195,
+                    "IoU": 0.6870462335235976,
+                    "TN": 37870026,
+                    "TP": 200050,
+                    "n_pred": 247245,
+                    "n_ref": 243979
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/cas2023/c3_predictions/CAS2023_015.nii.gz",
+            "reference_file": "/content/drive/MyDrive/cas2023/nnUNet_raw/Dataset501_CAS2023/labelsTs/CAS2023_015.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7826604288920739,
+                    "FN": 2563,
+                    "FP": 5474,
+                    "IoU": 0.6429269593033589,
+                    "TN": 5142935,
+                    "TP": 14471,
+                    "n_pred": 19945,
+                    "n_ref": 17034
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/cas2023/c3_predictions/CAS2023_041.nii.gz",
+            "reference_file": "/content/drive/MyDrive/cas2023/nnUNet_raw/Dataset501_CAS2023/labelsTs/CAS2023_041.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6944984194193904,
+                    "FN": 8777,
+                    "FP": 12291,
+                    "IoU": 0.5319782294790625,
+                    "TN": 6366621,
+                    "TP": 23947,
+                    "n_pred": 36238,
+                    "n_ref": 32724
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/cas2023/c3_predictions/CAS2023_042.nii.gz",
+            "reference_file": "/content/drive/MyDrive/cas2023/nnUNet_raw/Dataset501_CAS2023/labelsTs/CAS2023_042.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8601576820070882,
+                    "FN": 12033,
+                    "FP": 41906,
+                    "IoU": 0.754628660849945,
+                    "TN": 34934174,
+                    "TP": 165887,
+                    "n_pred": 207793,
+                    "n_ref": 177920
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/cas2023/c3_predictions/CAS2023_050.nii.gz",
+            "reference_file": "/content/drive/MyDrive/cas2023/nnUNet_raw/Dataset501_CAS2023/labelsTs/CAS2023_050.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8356416767241499,
+                    "FN": 12388,
+                    "FP": 46579,
+                    "IoU": 0.7176842901531582,
+                    "TN": 33909831,
+                    "TP": 149902,
+                    "n_pred": 196481,
+                    "n_ref": 162290
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/cas2023/c3_predictions/CAS2023_055.nii.gz",
+            "reference_file": "/content/drive/MyDrive/cas2023/nnUNet_raw/Dataset501_CAS2023/labelsTs/CAS2023_055.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8285135657686905,
+                    "FN": 24413,
+                    "FP": 54082,
+                    "IoU": 0.707232744280418,
+                    "TN": 34999736,
+                    "TP": 189619,
+                    "n_pred": 243701,
+                    "n_ref": 214032
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/cas2023/c3_predictions/CAS2023_056.nii.gz",
+            "reference_file": "/content/drive/MyDrive/cas2023/nnUNet_raw/Dataset501_CAS2023/labelsTs/CAS2023_056.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7821098813333405,
+                    "FN": 4850,
+                    "FP": 75904,
+                    "IoU": 0.6421842737254415,
+                    "TN": 33070114,
+                    "TP": 144932,
+                    "n_pred": 220836,
+                    "n_ref": 149782
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/cas2023/c3_predictions/CAS2023_065.nii.gz",
+            "reference_file": "/content/drive/MyDrive/cas2023/nnUNet_raw/Dataset501_CAS2023/labelsTs/CAS2023_065.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7968405550014951,
+                    "FN": 60517,
+                    "FP": 48874,
+                    "IoU": 0.6622900716226229,
+                    "TN": 46011215,
+                    "TP": 214529,
+                    "n_pred": 263403,
+                    "n_ref": 275046
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/cas2023/c3_predictions/CAS2023_070.nii.gz",
+            "reference_file": "/content/drive/MyDrive/cas2023/nnUNet_raw/Dataset501_CAS2023/labelsTs/CAS2023_070.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.831045934111147,
+                    "FN": 28420,
+                    "FP": 6074,
+                    "IoU": 0.7109312148028962,
+                    "TN": 19293408,
+                    "TP": 84834,
+                    "n_pred": 90908,
+                    "n_ref": 113254
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/cas2023/c3_predictions/CAS2023_072.nii.gz",
+            "reference_file": "/content/drive/MyDrive/cas2023/nnUNet_raw/Dataset501_CAS2023/labelsTs/CAS2023_072.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7859324445572282,
+                    "FN": 28122,
+                    "FP": 19118,
+                    "IoU": 0.6473547876589105,
+                    "TN": 18743801,
+                    "TP": 86719,
+                    "n_pred": 105837,
+                    "n_ref": 114841
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/cas2023/c3_predictions/CAS2023_073.nii.gz",
+            "reference_file": "/content/drive/MyDrive/cas2023/nnUNet_raw/Dataset501_CAS2023/labelsTs/CAS2023_073.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7518596912999547,
+                    "FN": 44356,
+                    "FP": 69594,
+                    "IoU": 0.6023839515951749,
+                    "TN": 39533847,
+                    "TP": 172633,
+                    "n_pred": 242227,
+                    "n_ref": 216989
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/cas2023/c3_predictions/CAS2023_078.nii.gz",
+            "reference_file": "/content/drive/MyDrive/cas2023/nnUNet_raw/Dataset501_CAS2023/labelsTs/CAS2023_078.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.877743033675358,
+                    "FN": 33738,
+                    "FP": 27958,
+                    "IoU": 0.7821230431297211,
+                    "TN": 44872851,
+                    "TP": 221473,
+                    "n_pred": 249431,
+                    "n_ref": 255211
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/cas2023/c3_predictions/CAS2023_091.nii.gz",
+            "reference_file": "/content/drive/MyDrive/cas2023/nnUNet_raw/Dataset501_CAS2023/labelsTs/CAS2023_091.nii.gz"
+        }
+    ]
+}

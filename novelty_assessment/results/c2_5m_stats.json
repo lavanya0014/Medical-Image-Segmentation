@@ -1,0 +1,8 @@
+{
+  "c2_params_million": 5.521122,
+  "checkpoint_mb": 15.640861,
+  "weights_fp32_mb": 22.084488,
+  "trainer": "nnUNetTrainerKD_C2_Feature",
+  "plans": "nnUNetPlansStudent5M",
+  "config": "3d_fullres"
+}

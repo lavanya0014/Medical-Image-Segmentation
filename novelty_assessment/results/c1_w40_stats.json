@@ -1,0 +1,8 @@
+{
+  "c1_params_million": 14.095578,
+  "checkpoint_mb": 39.468893,
+  "weights_fp32_mb": 56.382312,
+  "trainer": "nnUNetTrainerKD_C1_OutputOnly",
+  "plans": "nnUNetPlansStudentW40",
+  "config": "3d_fullres"
+}

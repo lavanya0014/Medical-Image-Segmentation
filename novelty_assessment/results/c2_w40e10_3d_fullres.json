@@ -1,0 +1,15 @@
+{
+  "model": "c2",
+  "tag": "_w40e10",
+  "params_million": 4.918743,
+  "patch_size": [
+    64,
+    192,
+    192
+  ],
+  "onnx_file": "c2_w40e10_3d_fullres.onnx",
+  "onnx_size_mb": 18.79,
+  "max_abs_error": 0.0010890960693359375,
+  "relative_error": 3.766913424784667e-05,
+  "label_agreement": 0.9999995761447482
+}

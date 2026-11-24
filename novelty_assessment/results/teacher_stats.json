@@ -1,0 +1,7 @@
+{
+  "teacher_params_million": 88.210794,
+  "checkpoint_mb": 246.411741,
+  "weights_fp32_mb": 352.843176,
+  "trainer": "nnUNetTrainer_5epochs",
+  "config": "3d_fullres"
+}

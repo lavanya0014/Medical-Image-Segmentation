@@ -1,0 +1,13 @@
+{
+  "model": "student",
+  "tag": "_5m",
+  "params_million": 1.926906,
+  "patch_size": [
+    64,
+    192,
+    192
+  ],
+  "onnx_file": "student_5m_3d_fullres.onnx",
+  "onnx_size_mb": 7.38,
+  "max_abs_error": 0.001873016357421875
+}
